@@ -1,0 +1,272 @@
+1. Monthly sales growth
+
+2. Monthly sales/new customers
+
+3. Monthly new leads/prospects
+
+4. Number of qualified leads
+
+5. Resources spent on one non-paying client
+
+6. Resources spent on one paying client
+
+7. Customer lifetime value/customer profitability
+
+8. Lead-to-sale conversion rate
+
+9. Cost per lead by each channel
+
+10. Cost of a new client by each channel
+
+11. Hourly, daily, weekly, monthly, quarterly, and annual sales
+
+12. Average conversion time
+
+13. Lead-to-close rate: all channels
+
+14. Customer turnover rate
+
+15. Number of monthly sales demos
+
+16. Customer engagement level
+
+17. Number of abandoned shopping carts
+
+18. Shopping cart abandonment rate
+
+19. Number of monthly quotes/orders
+
+20. Average purchase value
+
+21. Average order value
+
+22. Sales per representative
+
+23. Sales by lead source
+
+24. Inbound calls handled per representative
+
+25. Outbound calls handled per representative
+
+26. Average annual sales volume per customer
+
+27. Average monthly sales volume per customer
+
+28. Relative market share
+
+29. Product/service usage every day
+
+30. Value of returned goods and warranties
+
+31. Asset turnover ratio (sales to assets)
+
+32. Percentage of total sales from existing customers
+
+33. Sales reps per $100k in revenue
+
+34. Monthly sales quota attainment
+
+35. Sales quota attainment by the sales representative
+
+36. Number of client accounts per account manager
+
+37. Days sales outstanding
+
+38. Net profit margin
+
+39. Operating cash flow (OCF)
+
+40. Current ratio
+
+41. Quick ratio / Acid test
+
+42. Net profit margin
+
+43. Working capital
+
+44. Current accounts receivable
+
+45. Current accounts payable
+
+46. Accounts payable turnover
+
+47. Accounts receivable turnover
+
+48. Accounts payable process cost
+
+49. Accounts receivable turnover
+
+50. Budget variance
+
+51. Budget creation cycle time
+
+52. Line items in the budget
+
+53. Number of budget iterations
+
+54. Payroll headcount ratio
+
+55. Vendor expenses
+
+56. Payment error rate
+
+57. Internal audit cycle time
+
+58. Finance error report
+
+59. Debt to equity ratio
+
+60. Return on equity
+
+61. Cost of managing business
+
+62. Resource utilization
+
+63. Total cost of the finance function
+
+64. Planned value (PV)
+
+65. Actual cost (AC)
+
+66. Earned value (EV)
+
+67. Cost variance (CV) (planned budget vs. actual budget)
+
+68. Schedule variance (SV)
+
+69. Schedule performance index (SPI)
+
+70. Cost performance index (CPI)
+
+71. Planned hours of work vs. actual situation
+
+72. Overdue project tasks / crossed deadlines
+
+73. % of overdue project tasks
+
+74. Missed milestones
+
+75. Percentage of projects completed on time
+
+76. Percentage of cancelled projects
+
+77. Percentage of projects on budget
+
+78. Number of budget iterations
+
+79. Percentage of tasks completed
+
+80. Project resource utilization
+
+81. Cost of managing processes
+
+82. Return on investment (ROI)
+
+83. Monthly new leads/prospects
+
+84. Qualified leads per month
+
+85. Marketing qualified leads (MQL)
+
+86. Sales-accepted leads (SAL)
+
+87. Sales qualified leads (SQL)
+
+88. Cost per lead generated
+
+89. Net promoter score
+
+90. Cost per conversion
+
+91. Cost per conversion by channel
+
+92. Average time of conversion
+
+93. Retention rate
+
+94. Attrition rate
+
+95. Monthly website traffic
+
+96. Traffic from organic search
+
+97. Returning vs. new visitors
+
+98. Visits per channel
+
+99. Average time on page
+
+100. Click-through rate on web pages
+
+101. Pages per visit
+
+102. Conversion rate for call-to-action content
+
+103. Inbound links to website
+
+104. Traffic from organic search
+
+105. New leads from organic search
+
+106. New leads from organic search
+
+107. Number of unique keywords that drive traffic
+
+108. Keywords in top 10 SERP
+
+109. Rank increase of target keywords
+
+110. Conversion rate per keyword
+
+111. Page authority
+
+112. Google PageRank
+
+113. Volume of traffic from video content
+
+114. Leads & conversions from paid advertising
+
+115. Number of monthly PPC campaigns
+
+116. Cost per acquisition (CPA) & cost per conversion (CPC)
+
+117. Click-through rate on PPC advertising
+
+118. Traffic from social media
+
+119. Number of leads from social media
+
+120. Number of conversions from social media
+
+121. Conversion rate for social media leads
+
+122. Managed audience size
+
+123. Engagement rate
+
+124. Social media mentions
+
+125. Social media ROI
+
+126. Content quality on blog
+
+127. Number of monthly blog visits
+
+128. Blog articles published this month
+
+129. E-books published this month
+
+130. Infographics published this month
+
+131. ROI per content type
+
+132. Web traffic from PR campaigns
+
+133. Number of clippings
+
+134. Calls from PR campaigns
+
+135. Media impressions from PR campaigns
+
+136. PR ROI
+
