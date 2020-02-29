@@ -65,7 +65,15 @@ var login = express.Router();
 require('./Routes/Login')(login,knex,jwt);
 app.use('/',login)
 
+// sign in for the employee and returning employee data
+var emp = express.Router();
+require('./Routes/getEmployeeDetails')(emp,knex,jwt);
+app.use('/',emp)
 
+// posting new kpi target
+var kpi_target = express.Router();
+require('./Routes/post_kpi_target')(kpi_target,knex,jwt);
+app.use('/',kpi_target)
 
 // listening to the app
 app.listen((PORT = 8000), err => {

@@ -7,13 +7,17 @@ module.exports = (login, knex, jwt) => {
       .then(data => {
         if (data.length > 0) {
           console.log("signin successfull", data[0]);
-          jwt.sign({
+          jwt.sign(
+            {
               email: data[0].email,
-              employee_unique_id: data[0].employee_unique_id},
-            ("mySecurity$key"), { expiresIn: "1d" },
+              employee_unique_id: data[0].employee_unique_id,
+              employee_name: data[0].employee_name
+            },
+            "mySecurity$key",
+            { expiresIn: "1d" },
             (err, token) => {
               if (!err) {
-                res.json(token)
+                res.json(token);
               }
             }
           );

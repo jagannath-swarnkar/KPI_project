@@ -8,7 +8,7 @@ module.exports = knex => {
           .primary()
           .notNullable(),
           table.integer("kpi_id").notNullable(),
-          table.integer("employee_id").notNullable(),
+          table.string  ("employee_id").notNullable(),
           table.integer("percentage").notNullable(),
           table.integer("target").notNullable(),
           table.integer("appraisal_cycle_id");
